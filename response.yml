@@ -1,0 +1,299 @@
+categories:
+- collegebot
+conversations:
+
+- - What is the name the college?
+  - MVSR(Maturi Venkata Subba Rao).
+
+- - What can I ask you?
+  - I can help you find directions to college, give you the fee details and much more. Please visit &lt;a href="collegechatbot/templates/about.html" target="_blank" &gt;about &lt;/a&gt; page to know more.
+
+- - How can you help?
+  - I can help you find directions to college, give you the fee details and much more. Please visit &lt;a href='collegechatbot/templates/about.html' target="_blank" &gt;about &lt;/a&gt; page to know more.
+
+- - Hello
+  - Hello, how can I help you?
+  - Hi, how can I help you today?
+
+- - Hi
+  - Hello, how can I help you?
+  - Hi, how can I help you today?
+
+- - Hey
+  - Hello, how can I help you?
+  - Hi, how can I help you today?
+
+- - How are you?
+  - I'm really good, thanks. how can I help you today?
+
+- - college fee details
+  - You can find fee details &lt;a href="http://www.mvsrec.edu.in/index.php/fee-details"   target="_blank" &gt; here &lt;/a&gt;.
+  - Please &lt;a href="http://www.mvsrec.edu.in/index.php/fee-details" target="_blank" &gt;visit&lt;/a&gt; for college fee structure.
+
+- - show me college fee details
+  - You can find fee details &lt;a href="http://www.mvsrec.edu.in/index.php/fee-details"   target="_blank" &gt; here &lt;/a&gt;.
+  - Please &lt;a href="http://www.mvsrec.edu.in/index.php/fee-details" target="_blank" &gt;visit&lt;/a&gt; for college fee structure.
+
+- - how much is the fee
+  - You can find fee details &lt;a href="http://www.mvsrec.edu.in/index.php/fee-details"   target="_blank" &gt; here &lt;/a&gt;.
+  - Please &lt;a href="http://www.mvsrec.edu.in/index.php/fee-details" target="_blank" &gt;visit&lt;/a&gt; for college fee structure.
+
+- - admission information
+  - You can find admission details &lt;a href="http://www.mvsrec.edu.in/index.php/intake" target="_blank" &gt; here &lt;/a&gt;.
+  - Please &lt;a href="http://www.mvsrec.edu.in/index.php/intake" target="_blank" &gt;visit&lt;/a&gt; for admission related information.
+
+- - how to get admission
+  - You can find admission details &lt;a href="http://www.mvsrec.edu.in/index.php/intake" target="_blank" &gt; here &lt;/a&gt;.
+  - Please &lt;a href="http://www.mvsrec.edu.in/index.php/intake" target="_blank" &gt;visit&lt;/a&gt; for admission related information.
+
+- - what is the admission process
+  - You can find admission details &lt;a href="http://www.mvsrec.edu.in/index.php/intake" target="_blank" &gt; here &lt;/a&gt;.
+  - Please &lt;a href="http://www.mvsrec.edu.in/index.php/intake" target="_blank" &gt;visit&lt;/a&gt; for admission related information.
+
+- - hostel facilities
+  - For hostel facilites click &lt;a href="http://www.mvsrec.edu.in/images/hostel/matrusri%20boys%20hostel.pdf" target="_blank" &gt; here &lt;/a&gt;.
+  - you can find information about hostel facilites &lt;a href="http://www.mvsrec.edu.in/images/hostel/matrusri%20boys%20hostel.pdf" target="_blank" &gt; here &lt;/a&gt;.
+
+- - is hostel available?
+  - For hostel facilites click &lt;a href="http://www.mvsrec.edu.in/images/hostel/matrusri%20boys%20hostel.pdf" target="_blank" &gt; here &lt;/a&gt;.
+  - you can find information about hostel facilites &lt;a href="http://www.mvsrec.edu.in/images/hostel/matrusri%20boys%20hostel.pdf" target="_blank" &gt; here &lt;/a&gt;.
+
+- - is there hostel facility?
+  - For hostel facilites click &lt;a href="http://www.mvsrec.edu.in/images/hostel/matrusri%20boys%20hostel.pdf" target="_blank" &gt; here &lt;/a&gt;.
+  - you can find information about hostel facilites &lt;a href="http://www.mvsrec.edu.in/images/hostel/matrusri%20boys%20hostel.pdf" target="_blank" &gt; here &lt;/a&gt;.
+
+- - route map to college
+  - For route map to college click &lt;a href="https://goo.gl/oEuFka" target="_blank" &gt; here &lt;/a&gt;.
+  - Route to college can be found &lt;a href="https://goo.gl/oEuFka" target="_blank" &gt; here &lt;/a&gt;.
+
+- - where is the college located?
+  - For route map to college click &lt;a href="https://goo.gl/oEuFka" target="_blank" &gt; here &lt;/a&gt;.
+  - Route to college can be found &lt;a href="https://goo.gl/oEuFka" target="_blank" &gt; here &lt;/a&gt;.
+
+- - how far is the college
+  - For route map to college click &lt;a href="https://goo.gl/oEuFka" target="_blank" &gt; here &lt;/a&gt;.
+  - Route to college can be found &lt;a href="https://goo.gl/oEuFka" target="_blank" &gt; here &lt;/a&gt;.
+
+- - attendance details
+  - To check your attendance click &lt;a href="https://mvsr.winnou.net/" target="_blank" &gt; here &lt;/a&gt;.
+  - To know your attendance percentage click &lt;a href="https://mvsr.winnou.net/" target="_blank" &gt; here &lt;/a&gt;.
+  - For attendance information click &lt;a href="https://mvsr.winnou.net/" target="_blank" &gt; here &lt;/a&gt;.
+
+- - check my attendance
+  - To check your attendance click &lt;a href="https://mvsr.winnou.net/" target="_blank" &gt; here &lt;/a&gt;.
+  - To know your attendance percentage click &lt;a href="https://mvsr.winnou.net/" target="_blank" &gt; here &lt;/a&gt;.
+  - For attendance information click &lt;a href="https://mvsr.winnou.net/" target="_blank" &gt; here &lt;/a&gt;.
+
+- - what is my attendance.
+  - To check your attendance click &lt;a href="https://mvsr.winnou.net/" target="_blank" &gt; here &lt;/a&gt;.
+  - To know your attendance percentage click &lt;a href="https://mvsr.winnou.net/" target="_blank" &gt; here &lt;/a&gt;.
+  - For attendance information click &lt;a href="https://mvsr.winnou.net/" target="_blank" &gt; here &lt;/a&gt;.
+
+- - Faculty details
+  - For faculty information click &lt;a href=http://www.mvsrec.edu.in/images/AICTE/facultylist%2027.04.%202018.pdf" target="_blank" &gt; here &lt;/a&gt;.
+  - List of faculty can be found &lt;a href=http://www.mvsrec.edu.in/images/AICTE/facultylist%2027.04.%202018.pdf" target="_blank" &gt; here &lt;/a&gt;.
+
+- - Faculty information
+  - For faculty information click &lt;a href=http://www.mvsrec.edu.in/images/AICTE/facultylist%2027.04.%202018.pdf" target="_blank" &gt; here &lt;/a&gt;.
+  - List of faculty can be found &lt;a href=http://www.mvsrec.edu.in/images/AICTE/facultylist%2027.04.%202018.pdf" target="_blank" &gt; here &lt;/a&gt;.
+
+- - Transportation details
+  - For transportation information click &lt;a href="http://www.mvsrec.edu.in/index.php/transportation" target="_blank" &gt; here &lt;/a&gt;.
+  - For bus route details click &lt;a href="http://www.mvsrec.edu.in/index.php/transportation" target="_blank" &gt; here &lt;/a&gt;.
+  - For bus routes click &lt;a href="http://www.mvsrec.edu.in/index.php/transportation" target="_blank" &gt; here &lt;/a&gt;.
+
+- - is transportation available
+  - For transportation information click &lt;a href="http://www.mvsrec.edu.in/index.php/transportation" target="_blank" &gt; here &lt;/a&gt;.
+  - For bus route details click &lt;a href="http://www.mvsrec.edu.in/index.php/transportation" target="_blank" &gt; here &lt;/a&gt;.
+  - For bus routes click &lt;a href="http://www.mvsrec.edu.in/index.php/transportation" target="_blank" &gt; here &lt;/a&gt;.
+
+- - transportation information
+  - For transportation information click &lt;a href="http://www.mvsrec.edu.in/index.php/transportation" target="_blank" &gt; here &lt;/a&gt;.
+  - For bus route details click &lt;a href="http://www.mvsrec.edu.in/index.php/transportation" target="_blank" &gt; here &lt;/a&gt;.
+  - For bus routes click &lt;a href="http://www.mvsrec.edu.in/index.php/transportation" target="_blank" &gt; here &lt;/a&gt;.
+
+- - Time table
+  - For time table click &lt;a href="http://www.mvsrec.edu.in/index.php/component/content/category/102-class-time-tables" target="_blank" &gt; here &lt;/a&gt;.
+  - Time table can be found &lt;a href="http://www.mvsrec.edu.in/index.php/component/content/category/102-class-time-tables" target="_blank" &gt; here &lt;/a&gt;.
+
+- - show me timetable
+  - For time table click &lt;a href="http://www.mvsrec.edu.in/index.php/component/content/category/102-class-time-tables" target="_blank" &gt; here &lt;/a&gt;.
+  - Time table can be found &lt;a href="http://www.mvsrec.edu.in/index.php/component/content/category/102-class-time-tables" target="_blank" &gt; here &lt;/a&gt;.
+
+- - timetable details
+  - For time table click &lt;a href="http://www.mvsrec.edu.in/index.php/component/content/category/102-class-time-tables" target="_blank" &gt; here &lt;/a&gt;.
+  - Time table can be found &lt;a href="http://www.mvsrec.edu.in/index.php/component/content/category/102-class-time-tables" target="_blank" &gt; here &lt;/a&gt;.
+
+- - timetable information
+  - For time table click &lt;a href="http://www.mvsrec.edu.in/index.php/component/content/category/102-class-time-tables" target="_blank" &gt; here &lt;/a&gt;.
+  - Time table can be found &lt;a href="http://www.mvsrec.edu.in/index.php/component/content/category/102-class-time-tables" target="_blank" &gt; here &lt;/a&gt;.
+
+- - Where is the library?
+  - The college Library has a very rich collection of, some of which rare Engineering and technology books. In addition, each department has a separate departmental library.(click &lt;a href="http://www.mvsrec.edu.in/index.php/library-about" target="_blank" &gt; here &lt;/a&gt; more details)
+
+- - Where is the library?
+  - The college Library has a very rich collection of, some of which rare Engineering and technology books. In addition, each department has a separate departmental library.(click &lt;a href="http://www.mvsrec.edu.in/index.php/library-about" target="_blank" &gt; here &lt;/a&gt; more details)
+
+- - Where can I get books?
+  - The college Library has a very rich collection of, some of which rare Engineering and technology books. In addition, each department has a separate departmental library.(click &lt;a href="http://www.mvsrec.edu.in/index.php/library-about" target="_blank" &gt; here &lt;/a&gt; more details)
+
+- - where can I borrow books
+  - The college Library has a very rich collection of, some of which rare Engineering and technology books. In addition, each department has a separate departmental library.(click &lt;a href="http://www.mvsrec.edu.in/index.php/library-about" target="_blank" &gt; here &lt;/a&gt; more details)
+
+- - I want to borrow books
+  - The college Library has a very rich collection of, some of which rare Engineering and technology books. In addition, each department has a separate departmental library.(click &lt;a href="http://www.mvsrec.edu.in/index.php/library-about" target="_blank" &gt; here &lt;/a&gt; more details)
+
+- - first year syllabus and previous year papers
+  - First year syllabus for all the branches can be found &lt;a href="http://www.mvsrec.edu.in/index.php/first-yearash" target="_blank" &gt; here &lt;/a&gt;.
+  - syllabus for first year can be &lt;a href="http://www.mvsrec.edu.in/index.php/first-yearash" target="_blank" &gt; here &lt;/a&gt;.
+
+- - first year syllabus
+  - First year syllabus for all the branches can be found &lt;a href="http://www.mvsrec.edu.in/index.php/first-yearash" target="_blank" &gt; here &lt;/a&gt;.
+  - syllabus for first year can be &lt;a href="http://www.mvsrec.edu.in/index.php/first-yearash" target="_blank" &gt; here &lt;/a&gt;.
+
+
+- - civil syllabus and previous year papers
+  - Civil syllabus for 2nd,3rd,4th years can be found &lt;a href="http://www.mvsrec.edu.in/index.php/ce" target="_blank" &gt; here &lt;/a&gt;.
+
+- - civil syllabus
+  - Civil syllabus for 2nd,3rd,4th years can be found &lt;a href="http://www.mvsrec.edu.in/index.php/ce" target="_blank" &gt; here &lt;/a&gt;.
+
+- - CSE syllabus and previous year papers
+  - CSE syllabus for 2nd,3rd,4th years can be found &lt;a href="http://www.mvsrec.edu.in/index.php/cse" target="_blank" &gt; here &lt;/a&gt;.
+
+- - CSE syllabus
+  - CSE syllabus for 2nd,3rd,4th years can be found &lt;a href="http://www.mvsrec.edu.in/index.php/cse" target="_blank" &gt; here &lt;/a&gt;.
+
+- - ECE syllabus and previous year papers
+  - ECE syllabus for 2nd,3rd,4th years can be found &lt;a href="http://www.mvsrec.edu.in/index.php/ece" target="_blank" &gt; here &lt;/a&gt;.
+
+- - ECE syllabus
+  - ECE syllabus for 2nd,3rd,4th years can be found &lt;a href="http://www.mvsrec.edu.in/index.php/ece" target="_blank" &gt; here &lt;/a&gt;.
+
+- - EEE syllabus and previous year papers
+  - EEE syllabus for 2nd,3rd,4th years can be found &lt;a href="http://www.mvsrec.edu.in/index.php/eee" target="_blank" &gt; here &lt;/a&gt;.
+
+- - EEE syllabus
+  - EEE syllabus for 2nd,3rd,4th years can be found &lt;a href="http://www.mvsrec.edu.in/index.php/eee" target="_blank" &gt; here &lt;/a&gt;.
+
+- - ME syllabus and previous year papers
+  - ME syllabus for 2nd,3rd,4th years can be found &lt;a href="http://www.mvsrec.edu.in/index.php/me" target="_blank" &gt; here &lt;/a&gt;.
+
+- - ME syllabus
+  - ME syllabus for 2nd,3rd,4th years can be found &lt;a href="http://www.mvsrec.edu.in/index.php/me" target="_blank" &gt; here &lt;/a&gt;.
+
+- - mechanical syllabus and previous year papers
+  - ME syllabus for 2nd,3rd,4th years can be found &lt;a href="http://www.mvsrec.edu.in/index.php/me" target="_blank" &gt; here &lt;/a&gt;.
+
+- - mechanical syllabus
+  - ME syllabus for 2nd,3rd,4th years can be found &lt;a href="http://www.mvsrec.edu.in/index.php/me" target="_blank" &gt; here &lt;/a&gt;.
+
+- - IT syllabus and previous year papers
+  - IT syllabus for 2nd,3rd,4th years can be found &lt;a href="http://www.mvsrec.edu.in/index.php/it" target="_blank" &gt; here &lt;/a&gt;.
+
+- - IT syllabus
+  - IT syllabus for 2nd,3rd,4th years can be found &lt;a href="http://www.mvsrec.edu.in/index.php/it" target="_blank" &gt; here &lt;/a&gt;.
+
+- - AE syllabus and previous year papers
+  - AE syllabus for 2nd,3rd,4th years can be found &lt;a href="http://www.mvsrec.edu.in/index.php/aeautomobile-engg" target="_blank" &gt; here &lt;/a&gt;.
+
+- - AE syllabus
+  - AE syllabus for 2nd,3rd,4th years can be found &lt;a href="http://www.mvsrec.edu.in/index.php/aeautomobile-engg" target="_blank" &gt; here &lt;/a&gt;.
+
+- - Automobile syllabus and previous year papers
+  - AE syllabus for 2nd,3rd,4th years can be found &lt;a href="http://www.mvsrec.edu.in/index.php/aeautomobile-engg" target="_blank" &gt; here &lt;/a&gt;.
+
+- - Automobile syllabus
+  - AE syllabus for 2nd,3rd,4th years can be found &lt;a href="http://www.mvsrec.edu.in/index.php/aeautomobile-engg" target="_blank" &gt; here &lt;/a&gt;.
+
+- - Emergency facilites
+  - Read about emergency facilites &lt;a href="http://www.mvsrec.edu.in/index.php/component/content/article/2-uncategorised/1697-ambulance" target="_blank" &gt; here &lt;/a&gt;.
+  - MVSR Engineering College provides ambulance services to the students and staff  for any medical emergency which needs transportation of sick or injured students to and from nearby hospital or nursing home.(more &lt;a href="http://www.mvsrec.edu.in/index.php/component/content/article/2-uncategorised/1697-ambulance" target="_blank" &gt; details &lt;/a&gt;).
+
+- - Emergency facilites at college
+  - Read about emergency facilites &lt;a href="http://www.mvsrec.edu.in/index.php/component/content/article/2-uncategorised/1697-ambulance" target="_blank" &gt; here &lt;/a&gt;.
+  - MVSR Engineering College provides ambulance services to the students and staff  for any medical emergency which needs transportation of sick or injured students to and from nearby hospital or nursing home.(more &lt;a href="http://www.mvsrec.edu.in/index.php/component/content/article/2-uncategorised/1697-ambulance" target="_blank" &gt; details &lt;/a&gt;).
+
+- - What emergency facilities are there?
+  - Read about emergency facilites &lt;a href="http://www.mvsrec.edu.in/index.php/component/content/article/2-uncategorised/1697-ambulance" target="_blank" &gt; here &lt;/a&gt;.
+  - MVSR Engineering College provides ambulance services to the students and staff  for any medical emergency which needs transportation of sick or injured students to and from nearby hospital or nursing home.(more &lt;a href="http://www.mvsrec.edu.in/index.php/component/content/article/2-uncategorised/1697-ambulance" target="_blank" &gt; details &lt;/a&gt;).
+
+- - sports and games
+  - For various sports and games conducted in college click &lt;a href="http://www.mvsrec.edu.in/index.php/component/content/article/8-hmarticles/1771-sports-and-games" target="_blank" &gt; here &lt;/a&gt;.
+  - Our college has excellent sports facilities. The college has a sports and games – cricket, football, Table Tennis, Badminton, Shuttle, Volley ball, athletics, Carroms, Kabbadi, Football etc.(more &lt;a href="http://www.mvsrec.edu.in/index.php/component/content/article/8-hmarticles/1771-sports-and-games" target="_blank" &gt; details &lt;/a&gt;).
+
+- - sports and games available
+  - For various sports and games conducted in college click &lt;a href="http://www.mvsrec.edu.in/index.php/component/content/article/8-hmasrticles/1771-sports-and-games" target="_blank" &gt; here &lt;/a&gt;.
+  - Our college has excellent sports facilities. The college has a sports and games – cricket, football, Table Tennis, Badminton, Shuttle, Volley ball, athletics, Carroms, Kabbadi, Football etc.(more &lt;a href="http://www.mvsrec.edu.in/index.php/component/content/article/8-hmarticles/1771-sports-and-games" target="_blank" &gt; details &lt;/a&gt;).
+
+- - sports
+  - For various sports and games conducted in college click &lt;a href="http://www.mvsrec.edu.in/index.php/component/content/article/8-hmarticles/1771-sports-and-games" target="_blank" &gt; here &lt;/a&gt;.
+  - Our college has excellent sports facilities. The college has a sports and games – cricket, football, Table Tennis, Badminton, Shuttle, Volley ball, athletics, Carroms, Kabbadi, Football etc.(more &lt;a href="http://www.mvsrec.edu.in/index.php/component/content/article/8-hmarticles/1771-sports-and-games" target="_blank" &gt; details &lt;/a&gt;).
+
+- - holidays
+    Dussehra vacation- 12th October 2018 to 21st October 2018
+
+- - when do the holidays end?
+    Dussehra vacation- 12th October 2018 to 21st October 2018
+
+- - Rules and regulations for students
+  - Students are to follow the rules and regulations mentioned &lt;a href="http://www.mvsrec.edu.in/images/rules.pdf" target="_blank" &gt; here &lt;/a&gt;.
+
+- - certifications, rewards, achievements and milestones.
+  - Read about milestones achieved by us &lt;a href="http://www.mvsrec.edu.in/index.php/milestones" target="_blank" &gt; here &lt;/a&gt;.
+
+- - what certifications does MVSR have?
+  - Read about milestones achieved by us &lt;a href="http://www.mvsrec.edu.in/index.php/milestones" target="_blank" &gt; here &lt;/a&gt;.
+
+- - Reasons to choose MVSR
+  - 37 yrs old college under OU since 1981 with a sprawling campus of 20 acres.&lt;br&gt;Guaranteed placements for up to 70% to 80% in top most MNCs.&lt;br&gt;Dedicated and highly qualified faculty.&lt;br&gt;Financial assistance to students for projects.(click &lt;a href="http://www.mvsrec.edu.in/index.php/library/8-hmarticles/1514-why-mvsr" target="_blank" &gt; here &lt;/a&gt; for more details)
+
+- - Why should I choose MVSR
+  - 37 yrs old college under OU since 1981 with a sprawling campus of 20 acres.&lt;br&gt;Guaranteed placements for up to 70% to 80% in top most MNCs.&lt;br&gt;Dedicated and highly qualified faculty.&lt;br&gt;Financial assistance to students for projects.(click &lt;a href="http://www.mvsrec.edu.in/index.php/library/8-hmarticles/1514-why-mvsr" target="_blank" &gt; here &lt;/a&gt; for more details)
+
+- - Feedback
+  - Please submit your feedback &lt;a href='collegechatbot/templates/about.html' &gt; here &lt;/a&gt;.
+  - To submit your feedback click &lt;a href='collegechatbot/templates/about.html' &gt; here &lt;/a&gt;.
+
+- - I want to submit feedback
+  - Please submit your feedback &lt;a href='collegechatbot/templates/about.html' &gt; here &lt;/a&gt;.
+  - To submit your feedback click &lt;a href='collegechatbot/templates/about.html' &gt; here &lt;/a&gt;.
+
+- - Thank you
+  - Glad that I was of some help.
+  - Your welcome.
+  - I enjoyed answering your questions.
+  - Thank you,please submit your feedback &lt;a href='collegechatbot/templates/about.html' &gt; here &lt;/a&gt;.
+
+- - Thank you so much
+  - Glad that I was of some help.
+  - Your welcome.
+  - I enjoyed answering your questions.
+  - Thank you,please submit your feedback &lt;a href='collegechatbot/templates/about.html' &gt; here &lt;/a&gt;.
+
+- - Good bye
+  - Glad that I was of some help.
+  - Your welcome.
+  - I enjoyed answering your questions.
+  - Thank you,please submit your feedback &lt;a href='collegechatbot/templates/about.html' &gt; here &lt;/a&gt;.
+
+- - Goodbye
+  - Glad that I was of some help.
+  - Your welcome.
+  - I enjoyed answering your questions.
+  - Thank you,please submit your feedback &lt;a href='collegechatbot/templates/about.html' &gt; here &lt;/a&gt;.
+
+- - About the developer
+  - please visit &lt;a href='collegechatbot/templates/about.html' &gt; about &lt;/a&gt;page.
+
+- - Who made you?
+  - B Sai Kiran Reddy of IT-1 2/4 developed this chatbot.
+
+- - Who are you?
+  - I am a chatbot built using machine learning with python3, and I can answer questions related to MVSR engineering college.(click &lt;a href='collegechatbot/templates/about.html' target='_blank'&gt;here &lt;/a&gt;for more details).
+
+- - What technology has been used?
+  - Machine learning with python3.
+
+- - What is your limit?
+  - I am limited to answer only till college related information.
